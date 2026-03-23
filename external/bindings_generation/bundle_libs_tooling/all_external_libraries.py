@@ -8,8 +8,8 @@ from .external_library import ExternalLibrary
 def lib_glfw() -> ExternalLibrary:
     return ExternalLibrary(
         name="glfw",
-        official_git_url="https://github.com/glfw/glfw.git",
-        official_branch="3.3-stable",
+        official_git_url="https://github.com/harskish/glfw.git",
+        official_branch="tom94_plus_IMS212",
         is_published_in_python=False
     )
 

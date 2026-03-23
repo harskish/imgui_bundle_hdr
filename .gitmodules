@@ -4,8 +4,8 @@
 	branch = imgui_bundle
 [submodule "external/glfw/glfw"]
 	path = external/glfw/glfw
-	url = https://github.com/glfw/glfw.git
-	branch = 3.3-stable
+	url = https://github.com/harskish/glfw.git
+	branch = tom94_plus_IMS212
 [submodule "external/hello_imgui/hello_imgui"]
 	path = external/hello_imgui/hello_imgui
 	url = https://github.com/pthom/hello_imgui.git
